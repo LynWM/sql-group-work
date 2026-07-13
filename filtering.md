@@ -1,4 +1,5 @@
 ## FILTERING IN SQL
+Clause Order => *SELECT, FROM, **WHERE**, GROUP BY, HAVING, ORDER BY*
 
 - The process of assessing a group of items and extract the ones that fulfill a specific condition.
 - The **WHERE** clause is used to perform this operation.

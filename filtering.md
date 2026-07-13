@@ -11,7 +11,7 @@ WHERE ArtistId BETWEEN 1 AND 10;
 
 ### Operations in the **WHERE** Clause
 
-- Operations are usually included in the **WHERE** clause to filter and return records that meet the condition.
+Operations are usually included in the **WHERE** clause to filter and return records that meet the condition.
 1. =, <, >, <=, >= (equal to, less than, greater than, less than or equal, greater than or equal)
 2. BETWEEN (between a certain range)
 3. LIKE (search for a pattern)

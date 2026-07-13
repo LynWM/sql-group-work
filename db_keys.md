@@ -20,7 +20,7 @@ In our chinook.db, all tables have the first column (CustomerId, TrackId, Artist
 - A **FOREIGN KEY** is a column in a table that refers to the **PRIMARY KEY** in another table.
 - Table with the foreign key column is considered the **child table** and the table with the primary key being referenced is the **parent table**.
 
-In our chinook.db, an example is the relationship between the artists and albums tables. Albums belong to artists, and have an ArtistId column which acts as the table's FOREIGN KEY(FK), referencing the artists table PRIMARY KEY(PK) - ArtistId.
+- In our chinook.db, an example is the relationship between the artists and albums tables. Albums belong to artists, and have an ArtistId column which acts as the table's FOREIGN KEY(FK), referencing the artists table PRIMARY KEY(PK) - ArtistId.
 Other examples are:
     * customers table SupportRepId FK - employees table EmployeeId PK
     * invoice_items table InvoiceId FK - invoice table InvoiceId PK

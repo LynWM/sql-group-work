@@ -20,4 +20,4 @@ Operations are usually included in the **WHERE** clause to filter and return rec
 
 ### References
 
-[W3 SCHOOLS](https://www.w3schools.com/sql/sql_where.asp"SQL WHERE")
+[W3 SCHOOLS](https://www.w3schools.com/sql/sql_where.asp)

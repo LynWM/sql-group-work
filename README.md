@@ -1,6 +1,6 @@
 ## SQL GROUP DISCUSSION
 
--This repository is a compilation of all resources discussed on and research pertaining these 
+- This repository is a compilation of all resources discussed on and research pertaining these 
 SQL topics:
     - Filtering
     - Grouping

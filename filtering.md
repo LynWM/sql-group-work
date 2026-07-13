@@ -3,7 +3,11 @@
 - The process of assessing a group of items and extract the ones that fulfill a specific condition.
 - The **WHERE** clause is used to perform this operation.
 
--The **WHERE**  clause is not only used in **SELECT** statements, but also used in **UPDATE**, **DELETE**, etc.
+- The **WHERE**  clause is not only used in **SELECT** statements, but also used in **UPDATE**, **DELETE**, etc.
+```sql
+SELECT * FROM artists
+WHERE ArtistId BETWEEN 1 AND 10;
+```
 
 ### Operations in the **WHERE** Clause
 
